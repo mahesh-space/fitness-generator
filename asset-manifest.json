@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitness-generator/static/css/main.959118c7.css",
+    "main.js": "/fitness-generator/static/js/main.9849fc40.js",
+    "static/js/453.82eadbc0.chunk.js": "/fitness-generator/static/js/453.82eadbc0.chunk.js",
+    "index.html": "/fitness-generator/index.html",
+    "main.959118c7.css.map": "/fitness-generator/static/css/main.959118c7.css.map",
+    "main.9849fc40.js.map": "/fitness-generator/static/js/main.9849fc40.js.map",
+    "453.82eadbc0.chunk.js.map": "/fitness-generator/static/js/453.82eadbc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959118c7.css",
+    "static/js/main.9849fc40.js"
+  ]
+}
