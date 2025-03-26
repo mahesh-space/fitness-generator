@@ -190,3 +190,20 @@ body {
   font-weight: bold;
   color: #ff6b6b;
 }
+/* Ensure dropdown text is visible */
+.glass-select {
+  color: white; /* Ensures selected text is visible */
+  background: rgba(255, 255, 255, 0.1); /* Adjusted contrast */
+  border: 1px solid var(--border);
+}
+
+/* Fix invisible options in dark mode */
+.glass-select option {
+  color: white !important; /* Ensures visibility */
+  background-color: rgba(50, 50, 50, 0.9) !important; /* Dark mode background */
+}
+
+/* Improve hover effect */
+.glass-select option:hover {
+  background-color: rgba(80, 80, 80, 1) !important;
+}
