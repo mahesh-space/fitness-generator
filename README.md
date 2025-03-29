@@ -3,7 +3,7 @@
 ![Screenshot_30-3-2025_0348_mahesh-space github io](https://github.com/user-attachments/assets/40e2a4e4-c0db-4abf-b99d-5741285d4095)
 
 
-A responsive web app that creates personalized workout plans with glassmorphism UI and auto-theme detection.
+A responsive web app that creates personalized workout plans with glassmorphism UI.
 
 ## Features
 
